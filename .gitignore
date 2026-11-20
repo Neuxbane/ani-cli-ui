@@ -4,3 +4,5 @@
 # ...except the release folder and its contents
 !/release/
 !/release/**
+!README.md
+!.gitignore
