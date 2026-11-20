@@ -1,0 +1,6 @@
+# Ignore everything in the repository...
+/*
+
+# ...except the release folder and its contents
+!/release/
+!/release/**
